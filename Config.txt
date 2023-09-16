@@ -1,0 +1,30 @@
+import os
+from os import getenv
+from dotenv import load_dotenv
+
+
+API_ID = int(28426339) #optional
+API_HASH = "" #optional
+
+SUDO_USERS = list(map(int, ("").split()))
+OWNER_ID = int(1234567890)
+MONGO_URL = "MONGO_URL"
+BOT_TOKEN = "BOT_TOKEN"
+ALIVE_PIC = 'https://te.legra.ph/file/6a817381d251ba2ebe228.jpg'
+ALIVE_TEXT = None
+PM_LOGGER = None
+LOG_GROUP = int(-1001543634108)
+GIT_TOKEN = None #personal access token
+REPO_URL = "https://github.com/vickybots03/VICKY-USERBOT-02/tree/main"
+BRANCH = "master" #don't change
+ 
+STRING_SESSION1 = ""
+STRING_SESSION2 = ""
+STRING_SESSION3 = ""
+STRING_SESSION4 = ""
+STRING_SESSION5 = ""
+STRING_SESSION6 = ""
+STRING_SESSION7 = ""
+STRING_SESSION8 = ""
+STRING_SESSION9 = ""
+STRING_SESSION10 = ""

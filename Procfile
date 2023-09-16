@@ -1,1 +1,1 @@
-worker: python3 -m Zehar
+worker: python3 -m Vicky
